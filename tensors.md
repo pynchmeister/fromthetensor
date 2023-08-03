@@ -1,1 +1,9 @@
-tensors&nbsp;&nbsp;&nbsp;&nbsp;tensors
+## Tensors
+
+## RNNs
+
+## CNNs
+
+## Backpropagation
+
+## Gradient Descent

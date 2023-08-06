@@ -9,3 +9,5 @@
 ## Gradient Descent
 
 ## ReLUs
+
+## Cross-Entropy
